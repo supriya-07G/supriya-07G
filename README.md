@@ -1,10 +1,14 @@
-# Supriya Gali
+<div align="center">
+
+# Hi, I'm Supriya
 
 **Computer Science undergraduate | AI/ML | Full-Stack Development**
 
-I build software and machine learning systems, with current work spanning reinforcement learning, applied ML research, AI-powered applications, and hardware integration.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+AI-powered+applications;Exploring+reinforcement+learning;Developing+ML+and+cybersecurity+systems;Turning+research+into+working+software" alt="Animated introduction" />
 
 [GitHub repositories](https://github.com/supriya-07G?tab=repositories)
+
+</div>
 
 ---
 
