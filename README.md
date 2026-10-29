@@ -64,24 +64,33 @@
   </tr>
 </table>
 
-## Tech I work with
+## Tech stack
+
+### Programming languages
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,react,nodejs,fastapi,postgres,mongodb,git,github,aws,gcp,docker&perline=8" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,sql&perline=9" alt="Programming language icons: Python, Java, C, C++, JavaScript, TypeScript, HTML, CSS, and SQL" />
 </div>
 
-**AI/ML:** Machine Learning · Deep Learning · Reinforcement Learning · RAG · LLM-powered workflows  
-**Development:** APIs · Full-stack applications · Databases · Authentication · Automation  
-**Cloud & Tools:** Google Cloud · AWS · Git/GitHub · Playwright · MQTT
-
-## GitHub at a glance
+### AI, machine learning & data science
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=supriya-07G&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriya-07G&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=supriya-07G&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,numpy,pandas&perline=6" alt="AI and data science library icons: TensorFlow, PyTorch, scikit-learn, OpenCV, NumPy, and pandas" />
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow%20%7C%20PyTorch-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/ML-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/LLMs-RAG%20%7C%20AI%20Agents-7C3AED?style=flat-square" alt="LLMs, RAG, and AI agents" />
+</p>
+
+### Web development, databases & cloud
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,postgres,mongodb,supabase,git,github,docker,aws,gcp,vscode&perline=7" alt="Web, database, cloud, and developer tool icons" />
+</div>
+
+**Also work with:** REST APIs · OAuth · MQTT · Raspberry Pi · Playwright · Google Cloud Run · Cloud Storage · PostgreSQL Row-Level Security
 
 ## Contribution activity
 
